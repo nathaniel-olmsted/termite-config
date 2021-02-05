@@ -4,3 +4,6 @@ my termite config
 terminus font                                    
 links browser                                  
 termite terminal emulator
+
+# installing
+move the files into /home/yourname/.config/termite
