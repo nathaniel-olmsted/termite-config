@@ -41,39 +41,41 @@ size_hints = false
 scrollbar = off
 
 [colors]
-! special
-*.foreground:   #ebdbb2
-*.background:   #282828
-*.cursorColor:  #ebdbb2
 
-! black
-*.color0:       #100e0b
-*.color8:       #72aae3
+# special
+foreground      = #ebdbb2
+foreground_bold = #ebdbb2
+cursor          = #ebdbb2
+background      = #282828
 
-! red
-*.color1:       #1b1815
-*.color9:       #b3954c
+# black
+color0  = #100e0b
+color8  = #72aae3
 
-! green
-*.color2:       #2d2a24
-*.color10:      #cba41a
+# red
+color1  = #1b1815
+color9  = #b3954c
 
-! yellow
-*.color3:       #47423a
-*.color11:      #65bcb5
+# green
+color2  = #2d2a24
+color10 = #cba41a
 
-! blue
-*.color4:       #676055
-*.color12:      #e57788
+# yellow
+color3  = #47423a
+color11 = #65bcb5
 
-! magenta
-*.color5:       #8e8576
-*.color13:      #54c1b9
+# blue
+color4  = #676055
+color12 = #e57788
 
-! cyan
-*.color6:       #bbb09d
-*.color14:      #c3a55e
+# magenta
+color5  = #8e8576
+color13 = #54c1b9
 
-! white
-*.color7:       #e9e2d5
-*.color15:      #469235
+# cyan
+color6  = #bbb09d
+color14 = #c3a55e
+
+# white
+color7  = #e9e2d5
+color15 = #469235
