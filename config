@@ -41,55 +41,39 @@ size_hints = false
 scrollbar = off
 
 [colors]
+! special
+*.foreground:   #ebdbb2
+*.background:   #282828
+*.cursorColor:  #ebdbb2
 
-# special
-foreground      = #ebdbb2
-foreground_bold = #ebdbb2
-cursor          = #ebdbb2
-background      = #1c1c1c
+! black
+*.color0:       #100e0b
+*.color8:       #72aae3
 
-# black
-color0  = #2d2e31
-color8  = #3f4246
+! red
+*.color1:       #1b1815
+*.color9:       #b3954c
 
-# red
-color1  = #aa5656
-color9  = #cf7f7f
+! green
+*.color2:       #2d2a24
+*.color10:      #cba41a
 
-# green
-color2  = #8c9250
-color10 = #b7bd7c
+! yellow
+*.color3:       #47423a
+*.color11:      #65bcb5
 
-# yellow
-color3  = #dea780
-color11 = #f0d295
+! blue
+*.color4:       #676055
+*.color12:      #e57788
 
-# blue
-color4  = #778b9b
-color12 = #a0afbb
+! magenta
+*.color5:       #8e8576
+*.color13:      #54c1b9
 
-# magenta
-color5  = #8b7d90
-color13 = #b8a7bd
+! cyan
+*.color6:       #bbb09d
+*.color14:      #c3a55e
 
-# cyan
-color6  = #758d8a
-color14 = #a9c1be
-
-# white
-color7  = #7b7e81
-color15 = #c5c8c6
-
-
-[hints]
-#font = Terminus 12
-#foreground = #dcdccc
-#background = #3f3f3f
-#active_foreground = #e68080
-#active_background = #3f3f3f
-#padding = 2
-#border = #3f3f3f
-#border_width = 0.5
-#roundness = 2.0
-
-# vim: ft=dosini cms=#%s
+! white
+*.color7:       #e9e2d5
+*.color15:      #469235
