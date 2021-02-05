@@ -1,5 +1,5 @@
 # termite-config
-my termite config
-#dependencies
-terminus font
-links browser
+my termite config                                     
+# dependencies
+terminus font                                    
+links browser                                  
