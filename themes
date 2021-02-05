@@ -39,3 +39,43 @@ color14 = #79e0ed
 color7  = #cfcfcf
 color15 = #ffffff
 ______________________________________________________________________________________________________________________________________________________________________
+[colors]
+
+# special
+foreground      = #ebdbb2
+foreground_bold = #ebdbb2
+cursor          = #ebdbb2
+background      = #282828
+
+# black
+color0  = #100e0b
+color8  = #72aae3
+
+# red
+color1  = #1b1815
+color9  = #b3954c
+
+# green
+color2  = #2d2a24
+color10 = #cba41a
+
+# yellow
+color3  = #47423a
+color11 = #65bcb5
+
+# blue
+color4  = #676055
+color12 = #e57788
+
+# magenta
+color5  = #8e8576
+color13 = #54c1b9
+
+# cyan
+color6  = #bbb09d
+color14 = #c3a55e
+
+# white
+color7  = #e9e2d5
+color15 = #469235
+______________________________________________________________________________________________________________________________________________________________________
