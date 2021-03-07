@@ -20,7 +20,7 @@ urgent_on_bell = true
 hyperlinks = false
 
 # $BROWSER is used by default if set, with xdg-open as a fallback
-browser = links
+browser = qutebrowser
 
 # "system", "on" or "off"
 cursor_blink = on
