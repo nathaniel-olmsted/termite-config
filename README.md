@@ -2,7 +2,7 @@
 my termite config                                     
 # dependencies
 terminus font                                    
-links browser                                  
+qutebrowser browser                                  
 termite terminal emulator
 
 # installing
