@@ -6,7 +6,7 @@ cell_height_scale = 1.0
 cell_width_scale = 1.0
 clickable_url = true
 dynamic_title = true
-font = Terminus 14
+font = firacode 14
 fullscreen = true
 icon_name = terminal
 mouse_autohide = false
@@ -14,7 +14,7 @@ scroll_on_output = false
 scroll_on_keystroke = true
 # Length of the scrollback buffer, 0 disabled the scrollback buffer
 # and setting it to a negative value means "infinite scrollback"
-scrollback_lines = 5
+scrollback_lines = -1
 search_wrap = true
 urgent_on_bell = true
 hyperlinks = false
@@ -39,43 +39,3 @@ size_hints = false
 
 # "off", "left" or "right"
 scrollbar = off
-
-[colors]
-
-# special
-foreground      = #ebdbb2
-foreground_bold = #ebdbb2
-cursor          = #ebdbb2
-background      = #282828
-
-# black
-color0  = #100e0b
-color8  = #72aae3
-
-# red
-color1  = #1b1815
-color9  = #b3954c
-
-# green
-color2  = #2d2a24
-color10 = #cba41a
-
-# yellow
-color3  = #47423a
-color11 = #65bcb5
-
-# blue
-color4  = #676055
-color12 = #e57788
-
-# magenta
-color5  = #8e8576
-color13 = #54c1b9
-
-# cyan
-color6  = #bbb09d
-color14 = #c3a55e
-
-# white
-color7  = #e9e2d5
-color15 = #469235
